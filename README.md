@@ -1,17 +1,14 @@
-Readme file updated :
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!!+👋;+This+is+Prashant+🚀!;" />
 </h1>
 
-## 💫 About Me
-🎓 First-year B.Tech Computer Science student  
-💻 Learning and building in public  
-🚀 Passionate about web development and problem-solving  
-🌱 I enjoy learning by building real projects  
+## 👨‍💻 About Me
+First-year B.Tech Computer Science student  
+Learning and building in public  
+Passionate about web development and problem-solving  
+I enjoy learning by building real projects  
 
-📫 Reach me: **prashantsharma4840@outlook.com**
+Reach me: **prashantsharma4840@outlook.com**
 
 ---
 
@@ -23,9 +20,9 @@ Readme file updated :
 ---
 
 ## 🚀 Projects
-- 🌦 **Weather App** — API based weather dashboard  
-- ✅ **To-Do App** — task manager with local storage  
-- 🧮 **Calculator** — responsive web calculator  
+- Weather App — API based weather dashboard  
+- To-Do App — task manager with local storage  
+- Calculator — responsive web calculator  
 
 (More projects coming soon...)
 
@@ -41,7 +38,7 @@ Readme file updated :
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -64,11 +61,11 @@ Readme file updated :
 
 ---
 
-## ✍️ Random Dev Quote
+## 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ![](https://visitcount.itsvg.in/api?id=prashant4840&icon=0&color=0)
 
-⭐ Learning every day. Building step by step.
+Learning every day. Building step by step.
