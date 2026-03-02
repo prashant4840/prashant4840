@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/prashantsharma40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant4840" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Prashant_sh40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant4840" height="30" width="40" /></a>
-<a href="https://x.com/Prashantsh40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="prashant4840" height="30" width="40" /></a>
+<a href="https://x.com/Prashantsh40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashant4840" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prashantxsharma_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant4840" height="30" width="40" /></a>
 </p>
 
