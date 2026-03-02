@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!!+👋;+This+is+Aryan+🚀!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!!+👋;+This+is+Prashant+🚀!;" />
 </h1>
 
-- 📫 How to reach me **nandaaryan823@gmail.com**
+- 📫 How to reach me **prashantsharma4840@outlook.com**
 
 
 
@@ -14,12 +14,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aryan-nanda-25b32224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AryanNanda17" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/aryannanda17/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="AryanNanda17" height="30" width="40" /></a>
-<a href="https://www.instagram.com/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AryanNanda17" height="30" width="40" /></a>
-<a href="/Add your codechef profile URL here" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="AryanNanda17" height="30" width="40" /></a>
-<a href="/Add your codeForces profile URL here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AryanNandar" height="30" width="40" /></a>
-<a href="/Add your LeetCode profile URL here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AryanNanda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prashantsharma40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant4840" height="30" width="40" /></a>
+<!-- <a href="https://www.kaggle.com/aryannanda17/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="AryanNanda17" height="30" width="40" /></a> -->
+<!-- <a href="[https://www.instagram.com/?next=%2F](https://www.instagram.com/prashantxsharma_/?next=%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant4840" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant4840" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Prashant_sh40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant4840" height="30" width="40" /></a>
 </p>
 
 
